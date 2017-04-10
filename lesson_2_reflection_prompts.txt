@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository git shows an empty repository with the location of the
+ repository. I would need to initilize a repository so that I can keep track of all the 
+ files and file versions
