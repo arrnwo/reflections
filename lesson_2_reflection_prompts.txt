@@ -3,3 +3,10 @@ What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository git shows an empty repository with the location of the
  repository. I would need to initilize a repository so that I can keep track of all the 
  files and file versions
+
+How is the staging area different from the working directory and the repository? What
+	value do you thing it offers?
+
+The staging area is the 'in between' that takes files from the working directory and places
+	them in the repository. This is valuable becase, with this step, you can double check
+	to make sure that you want to add something to the repsitory before doing so.
