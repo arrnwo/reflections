@@ -10,3 +10,8 @@ How is the staging area different from the working directory and the repository?
 The staging area is the 'in between' that takes files from the working directory and places
 	them in the repository. This is valuable becase, with this step, you can double check
 	to make sure that you want to add something to the repsitory before doing so.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add each logical change to the staging area first then add it to the repository
+	by using the git commit command.
