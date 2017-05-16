@@ -5,3 +5,14 @@ Q: Why might you want to always pull changes manually rather than having Git aut
   stay up-to-date with your remote repository?
 A: Pulling changes manually will allow me to have more understanding of the changes made by a
   collaborator and will help me determine if the changes made should be kept
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead
+    of another?
+    
+A: a Fork is a copy of someone elses code on github. Its used when you want to either give the 
+    original author credit or suggest some changes.
+    a Clone is a a copy of someone elses code on my own local drive. Its used when you want to make 
+    changes that you're not ready to share
+    a branch is kind of a copy of work that belongs to you or someone else that is located on your
+    own local drive. Its used when you want to make a new version or a new feature of code without
+    altering the master code that is ready to be shared with others.
