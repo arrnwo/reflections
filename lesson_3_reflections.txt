@@ -16,3 +16,9 @@ A: a Fork is a copy of someone elses code on github. Its used when you want to e
     a branch is kind of a copy of work that belongs to you or someone else that is located on your
     own local drive. Its used when you want to make a new version or a new feature of code without
     altering the master code that is ready to be shared with others.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored 
+	locally?
+A: having a copy of the last known state of the remote stored locally is beneficial because
+	if a collaborator goes offline they can continue to do work. Once the collaborator
+	gets back online they will be able to sync up their work with the collaborators
