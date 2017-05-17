@@ -22,3 +22,9 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 A: having a copy of the last known state of the remote stored locally is beneficial because
 	if a collaborator goes offline they can continue to do work. Once the collaborator
 	gets back online they will be able to sync up their work with the collaborators
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what
+	would b harder?
+A: If i wasn't using Git I would used google Drive or email. It would be easier to send
+	and recieve content since the method is pretty straightforward. It would be harder to 
+	implement new features or catch errors especially if the code is really long though.
