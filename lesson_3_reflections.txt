@@ -1,14 +1,15 @@
 Q: When would you want to use a remote repository rather than keeping all your work local?
 A: I'd want to use a remote repsoitory when I'm ready to make something public
 
+
 Q: Why might you want to always pull changes manually rather than having Git automatically
   stay up-to-date with your remote repository?
 A: Pulling changes manually will allow me to have more understanding of the changes made by a
   collaborator and will help me determine if the changes made should be kept
 
+
 Q: Describe the differences between forks, clones, and branches. When would you use one instead
     of another?
-    
 A: a Fork is a copy of someone elses code on github. Its used when you want to either give the 
     original author credit or suggest some changes.
     a Clone is a a copy of someone elses code on my own local drive. Its used when you want to make 
@@ -17,14 +18,23 @@ A: a Fork is a copy of someone elses code on github. Its used when you want to e
     own local drive. Its used when you want to make a new version or a new feature of code without
     altering the master code that is ready to be shared with others.
 
+
 Q: What is the benefit of having a copy of the last known state of the remote stored 
 	locally?
 A: having a copy of the last known state of the remote stored locally is beneficial because
 	if a collaborator goes offline they can continue to do work. Once the collaborator
 	gets back online they will be able to sync up their work with the collaborators
 
+
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what
 	would b harder?
 A: If i wasn't using Git I would used google Drive or email. It would be easier to send
 	and recieve content since the method is pretty straightforward. It would be harder to 
 	implement new features or catch errors especially if the code is really long though.
+
+Q: When would you want to make changes in a separate branch rather than directly in 
+	master? What benefits does each approach have?
+A: I would make changes in a separate branch when I want my collaborator to double check 
+	what I'm doing. This is beneficial when I add a new feature or a new logic but most
+	importantly to keep the lines of communication open with my collaborators so that we all stay
+	on the same page. 
